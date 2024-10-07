@@ -1,0 +1,55 @@
+=========================================
+file : source/main.cpp
+line : 17
+address stack_structure : 0x0061FEE8
+size : 30,  address size : 0x0061FEEC
+capacity : 40,  address capacity : 0x0061FEF0
+address dump file : 0x0061FEF4
+address memory report file 0x0061FEF8
+hash : 2793232167, address hash : 0x0061FEFC
+poison : 666.130000, address poison : 0x0061FF00
+address pointer left canary : 0x0061FF08
+address pointer right canary : 0x0061FF0C
+stack : 0x007C3550
+left_canary : 0x007C3548 value : 3565
+*data[0] = 0.000000  address = 0x007C3550
+*data[1] = 1.000000  address = 0x007C3558
+*data[2] = 2.000000  address = 0x007C3560
+*data[3] = 3.000000  address = 0x007C3568
+*data[4] = 4.000000  address = 0x007C3570
+*data[5] = 5.000000  address = 0x007C3578
+*data[6] = 6.000000  address = 0x007C3580
+*data[7] = 7.000000  address = 0x007C3588
+*data[8] = 8.000000  address = 0x007C3590
+*data[9] = 9.000000  address = 0x007C3598
+*data[10] = 10.000000  address = 0x007C35A0
+*data[11] = 11.000000  address = 0x007C35A8
+*data[12] = 12.000000  address = 0x007C35B0
+*data[13] = 13.000000  address = 0x007C35B8
+*data[14] = 14.000000  address = 0x007C35C0
+*data[15] = 15.000000  address = 0x007C35C8
+*data[16] = 16.000000  address = 0x007C35D0
+*data[17] = 17.000000  address = 0x007C35D8
+*data[18] = 18.000000  address = 0x007C35E0
+*data[19] = 19.000000  address = 0x007C35E8
+*data[20] = 20.000000  address = 0x007C35F0
+*data[21] = 21.000000  address = 0x007C35F8
+*data[22] = 22.000000  address = 0x007C3600
+*data[23] = 23.000000  address = 0x007C3608
+*data[24] = 24.000000  address = 0x007C3610
+*data[25] = 25.000000  address = 0x007C3618
+*data[26] = 26.000000  address = 0x007C3620
+*data[27] = 27.000000  address = 0x007C3628
+*data[28] = 28.000000  address = 0x007C3630
+*data[29] = 29.000000  address = 0x007C3638
+data[30] = 666.130000 address = 0x007C3640
+data[31] = 666.130000 address = 0x007C3648
+data[32] = 666.130000 address = 0x007C3650
+data[33] = 666.130000 address = 0x007C3658
+data[34] = 666.130000 address = 0x007C3660
+data[35] = 666.130000 address = 0x007C3668
+data[36] = 666.130000 address = 0x007C3670
+data[37] = 666.130000 address = 0x007C3678
+data[38] = 666.130000 address = 0x007C3680
+data[39] = 666.130000 address = 0x007C3688
+right_canary : 0x007C3690 value : 3802
